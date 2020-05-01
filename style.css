@@ -10,7 +10,7 @@ body{
 .site-wrapper{
   width:100%;
   height:100%;
-  background-image: url('stock/the-coherent-team-zhFJ7qfgCVk-unsplash.jpg');
+  background-image: url('the-coherent-team-zhFJ7qfgCVk-unsplash.jpg');
   background-size: cover;
   background-repeat: no-repeat;
   color:#f7fff7;
@@ -98,7 +98,7 @@ height:2px;
 /* contnetn 2*/
 /*parallax image*/
 .content-2 .row .col-1{
-background-image: url('stock/corinne-kutz-tMI2_-r5Nfo-unsplash.jpg');
+background-image: url('corinne-kutz-tMI2_-r5Nfo-unsplash.jpg');
 background-size: cover;
 background-attachment: fixed;
 background-position: center;
